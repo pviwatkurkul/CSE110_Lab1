@@ -26,6 +26,6 @@ Continuing, I don't really like using the Source Control tab or command line for
 - [ ] Get an A 
 
 Here's a picture of my favorite game of all time  
-![LBP3](img1.jpg)
+![LBP3](https://cdn.discordapp.com/attachments/905224437517918298/1226379585478856796/img1.jpg?ex=66248dfe&is=661218fe&hm=e832e193180e088e36992c70e5f2407acbb435f9993e162d411c42668c993374&)
 
 Of course, this site will be built using [GitHub Pages](https://pages.github.com/).
