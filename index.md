@@ -26,6 +26,6 @@ Continuing, I don't really like using the Source Control tab or command line for
 - [ ] Get an A 
 
 Here's a picture of my favorite game of all time  
-![LBP3](https://github.com/pviwatkurkul/CSE110_Lab1/blob/main/img1.jpg)
+![LBP3](img1.jpg)
 
 Of course, this site will be built using [GitHub Pages](https://pages.github.com/).
