@@ -11,9 +11,11 @@ Hello! My name is Purich Viwatkurkul and I'm currently a third-year Math-CS majo
   2. Sushi
   3. Sandwiches  
 - fashion, 
-- and of course **progamming** when I can.  
+- and of course **progamming** when I can.
+
 My career prospects are to try to break into the SWE field right after graduation and try to land a role at any company that is willing to take me in as front-end developer. I just really like the current industry tech stacks such as react and various css frameworks to aid in building responsive websites. I think I have a decent eye for design so it makes me want to continue to grow and build more aesthetic and useful websites. I'm currently trying to land an internship for the summer and get as much experience as I can. There's currently not much success but as **Master Oogway** states, 
 > Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it's called the present.
+
 and that's why I gotta just keep trying. 
 
 Continuing, I don't really like using the Source Control tab or command line for git commands and would rather use `github desktop` because I think it's more visually friendly and easier to use. Lastly, what I want to do next for this class is 
